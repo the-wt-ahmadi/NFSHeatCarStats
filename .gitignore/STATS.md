@@ -1,5 +1,51 @@
-# NOTE: CARS ARE IN ALPHABETICAL ORDER REGARDING MANUFACTURE YEAR
-**Manufacturers:** [Acura](github.com/the-wt-ahmadi/NFSHeatCarStats/
+#### NOTE: CARS ARE IN ALPHABETICAL ORDER REGARDING MANUFACTURE YEAR
+*Manufacturers:* [A](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#a) | [B](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#b) | [C](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#c) | [D](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#d) | [F](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#f) | [H](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#h) | [I](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#i) | [J](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#j) | [K](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#k) | [L](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#l) | [M](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#m) | [N](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#n) | [P](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#p) | [S](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#s) | [V](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#v)
+## A
+  ##### [Acura](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#acura)
+  ##### [Alfa Romeo](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#alfa-romeo)
+  ##### [Aston Martin](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#aston-martin)
+  ##### [Audi](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#audi)
+## B
+  ##### [BMW](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#bmw)
+  ##### [Buick](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#buick)
+## C
+  ##### [Chevrolet](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#chevrolet)
+## D
+  ##### [Dodge](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#dodge)
+## F
+  ##### [Ferrari](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#ferrari)
+  ##### [Ford](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#ford)
+## H
+  ##### [Honda](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#honda)
+## I
+  ##### [Infiniti](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#infiniti)
+## J
+  ##### [Jaguar](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#jaguar)
+## K
+  ##### [Koenigsegg](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#koenigsegg)
+## L
+  ##### [Lamborghini](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#lamborghini)
+  ##### [Land Rover](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#land-rover)
+  ##### [Lotus](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#lotus)
+## M
+  ##### [Mazda](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#mazda)
+  ##### [McLaren](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#mclaren)
+  ##### [Mercedes-AMG](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#mercedes-amg)
+  ##### [Mini](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#mini)
+  ##### [Mitsubishi](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#mitsubishi)
+## N
+  ##### [Nissan](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#nissan)
+## P
+  ##### [Pagani](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#pagani)
+  ##### [Plymouth](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#plymouth)
+  ##### [Polestar](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#polestar)
+  ##### [Pontiac](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#pontiac)
+  ##### [Porsche](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#porsche)
+## S
+  ##### [Subaru](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#subaru)
+## V
+  ##### [Volkswagen](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#volkswagen)
+  ##### [Volvo](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#volvo)
 ### Acura
   ##### RSX-S '04
   ##### NSX '17

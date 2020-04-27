@@ -60,7 +60,7 @@
   ##### DB11 Volante '19
   ##### Vulcan '16
 ### Audi 
-###### [pricing](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#audi-2)
+###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#audi-2)
   ##### R8 V10 Performance '19
   ##### S5 Sportback '17
 ### BMW 

@@ -98,27 +98,91 @@
    - 710 hp 3.9L V8
    - 385 hp 4.9L Flat 12
    - 600 hp 5.2L V12
+   - 646 hp 3.5L V6
+   - 542 hp 5.0L V8
+   - 721 hp Forged 3.8L V6
   ##### DB11 Volante '19
   ##### Vulcan '16
+   - 640 hp 8.4L V10
+   - 460 hp 6.2L V8
+   - 542 hp 5.0L V8
+   - 820 hp 7.0L V12
 ### Audi 
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#audi-2)
   ##### R8 V10 Performance '19
+   - 640 hp 8.4L V10
+   - 460 hp 6.2L V8
+   - 730 hp 6.5L V12
+   - 710 hp 3.9L V8
+   - 385 hp 4.9L Flat 12
+   - 600 hp 5.2L V12
+   - 646 hp 3.5L V6
+   - 542 hp 5.0L V8
+   - 612 hp 5.2L V10
   ##### S5 Sportback '17
+   - 640 hp 8.4L V10
+   - 460 hp 6.2L V8
+   - 730 hp 6.5L V12
+   - 710 hp 3.9L V8
+   - 345 hp 4.0L V8
+   - 385 hp 4.9L Flat 12
+   - 600 hp 5.2L V12
+   - 542 hp 5.0L V8
+   - 612 hp 5.2L V10
+   - 349 hp 3.0L V6
 ### BMW 
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#bmw-2)
   ##### 128i '09
   ##### 328i '99
   ##### i8 Coupe '18
+   - 345 hp 4.0L V8
+   - 570 hp 4.5L V8
+   - 503 hp 2.9L V6
+   - 577 hp 4.0L V8
+   - 591 hp 4.4L V8
+   - 494 hp 3.0L I6
+   - 600 hp 2.0L I4 Hybrid
+   - 591 hp 3.8L V8
+   - 369 hp 1.5L I3 Hybrid
   ##### i8 Coupe "*K.S.*" '18
+   - 345 hp 4.0L V8
+   - 570 hp 4.5L V8
+   - 503 hp 2.9L V6
+   - 577 hp 4.0L V8
+   - 591 hp 4.4L V8
+   - 494 hp 3.0L I6
+   - 600 hp 2.0L I4 Hybrid
+   - 591 hp 3.8L V8
+   - 369 hp 1.5L I3 Hybrid
   ##### i8 Roadster '18
+    - 345 hp 4.0L V8
+   - 570 hp 4.5L V8
+   - 503 hp 2.9L V6
+   - 577 hp 4.0L V8
+   - 591 hp 4.4L V8
+   - 494 hp 3.0L I6
+   - 600 hp 2.0L I4 Hybrid
+   - 591 hp 3.8L V8
+   - 369 hp 1.5L I3 Hybrid
   ##### M2 Competition '19
-  ##### M3 Evolution II '88
+   - 640 hp 8.4L V10
+   - 460 hp 6.2L V8
+   - 730 hp 6.5L V12
+   - 710 hp 3.9L V8
+   - 345 hp 4.0L V8
+   - 385 hp 4.9L Flat 12
+   - 600 hp 5.2L V12
+   - 570 hp 4.5L V8
+   - 591 hp 4.4L V8
+   - 494 hp 3.0L I6
+   - 404 hp 3.0L I6
   ##### M3 '06
-  ##### M3 GTR "*L.E.*" '06
   ##### M3 '10
-  ##### M4 GTS '16*
-  ##### M4 Convertible '17
+  ##### M3 Evolution II '88
+  ##### M3 GTR "*L.E.*" '06
   ##### M4 '18
+  ##### M4 Convertible '17
+  ##### M4 GTS '16*
 ### Buick
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#buick-2)
   ##### Grand National '87

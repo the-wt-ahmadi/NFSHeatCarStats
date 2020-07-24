@@ -49,48 +49,48 @@
 ### Acura 
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#acura-2)
   ##### NSX '17
-   - 640 hp 8.4L V10
-   - 460 hp 6.2L V8
-   - 730 hp 6.5L V12
-   - 710 hp 3.9L V8
-   - 385 hp 4.9L Flat 12
-   - 600 hp 5.2L V12
-   - 646 hp 3.5L V6
-   - 573 hp 3.5L V6 Hybrid
+   - 640 hp 8.4 L V10
+   - 460 hp 6.2 L V8
+   - 730 hp 6.5 L V12
+   - 710 hp 3.9 L V8
+   - 385 hp 4.9 L Flat 12
+   - 600 hp 5.2 L V12
+   - 646 hp 3.5 L V6
+   - 573 hp 3.5 L V6 Hybrid
   ##### RSX-S '04
-   - 348 hp 4.0L V8
-   - 503 hp 2.9L V6
-   - 562 hp 3.8L V8
-   - 276 hp 1.3L Wankel
-   - 562 hp 3.8L V8
-   - 514 hp 4.0L Flat 6
-   - 456 hp 4.0L V8
-   - 200 hp 2.0L I4
+   - 345 hp 4.0 L V8
+   - 503 hp 2.9 L V6
+   - 562 hp 3.8 L V8
+   - 276 hp 1.3 L Wankel
+   - 562 hp 3.8 L V8
+   - 514 hp 4.0 L Flat 6
+   - 456 hp 4.0 L V8
+   - 200 hp 2.0 L I4
 ### Alfa Romeo 
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#alfa-romeo-2)
   ##### Giulia Quadrifoglio '16
-   - 640 hp 8.4L V10
-   - 460 hp 6.2L V8
-   - 730 hp 6.5L V12
-   - 710 hp 3.9L V8
-   - 385 hp 4.9L Flat 12
-   - 570 hp 4.5L V8
-   - 503 hp 2.9L V6
-   - 646 hp 3.5L V6
-   - 542 hp 5.0L V8  
+   - 640 hp 8.4 L V10
+   - 460 hp 6.2 L V8
+   - 730 hp 6.5 L V12
+   - 710 hp 3.9 L V8
+   - 385 hp 4.9 L Flat 12
+   - 570 hp 4.5 L V8
+   - 503 hp 2.9 L V6
+   - 646 hp 3.5 L V6
+   - 542 hp 5.0 L V8  
 ### Aston Martin 
 ###### [(pricing)](http://github.com/the-wt-ahmadi/NFSHeatCarStats/blob/master/.gitignore/STATS.md#aston-martin-2)
   ##### DB5 '64
-   - 640 hp 8.4L V10
-   - 460 hp 6.2L V8
-   - 730 hp 6.5L V12
-   - 710 hp 3.9L V8
-   - 345 hp 4.0L V8
-   - 385 hp 4.9L Flat 12
-   - 600 hp 5.2L V12
-   - 542 hp 5.0L V8
-   - 276 hp 1.3L Wankel
-   - 282 hp 4.0L I6
+   - 640 hp 8.4 L V10
+   - 460 hp 6.2 L V8
+   - 730 hp 6.5 L V12
+   - 710 hp 3.9 L V8
+   - 345 hp 4.0 L V8
+   - 385 hp 4.9 L Flat 12
+   - 600 hp 5.2 L V12
+   - 542 hp 5.0 L V8
+   - 276 hp 1.3 L Wankel
+   - 282 hp 4.0 L I6
   ##### DB11 '17
    - 640 hp 8.4L V10
    - 460 hp 6.2L V8
@@ -102,6 +102,15 @@
    - 542 hp 5.0L V8
    - 721 hp Forged 3.8L V6
   ##### DB11 Volante '19
+   - 640 hp 8.4 L V10
+   - 460 hp 6.2 L V8
+   - 730 hp 6.5 L V12
+   - 710 hp 3.9 L V8
+   - 385 hp 4.9 L Flat 12
+   - 600 hp 5.2 L V12
+   - 646 hp 3.5 L V6
+   - 542 hp 5.0 L V8
+   - 721 hp Forged 3.8 L V6
   ##### Vulcan '16
    - 640 hp 8.4L V10
    - 460 hp 6.2L V8
@@ -177,7 +186,28 @@
    - 494 hp 3.0L I6
    - 404 hp 3.0L I6
   ##### M3 '06
+   - 345 hp 4.0 L V8
+   - 570 hp 4.5 L V8
+   - 503 hp 2.9 L V6
+   - 276 hp 1.3 L Wankel
+   - 591 hp 4.4 L V8
+   - 456 hp 4.0 L V8
+   - 494 hp 3.0 L I6
+   - 591 hp 3.8 L V8
+   - 567 hp 4.4 L V8
+   - 338 hp 3.2 L I6
   ##### M3 '10
+   - 640 hp 8.4 L V10
+   - 460 hp 6.2 L V8
+   - 730 hp 6.5 L V12
+   - 710 hp 3.9 L V8
+   - 345 hp 4.0 L V8
+   - 385 hp 4.9 L Flat 12
+   - 600 hp 5.2 L V12
+   - 570 hp 4.5 L V8
+   - 591 hp 4.4 L V8
+   - 494 hp 3.0 L I6
+   - 414 hp 4.0 L V8
   ##### M3 Evolution II '88
   ##### M3 GTR "*L.E.*" '06
   ##### M4 '18

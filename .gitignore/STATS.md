@@ -164,7 +164,7 @@
    - 591 hp 3.8L V8
    - 369 hp 1.5L I3 Hybrid
   ##### i8 Roadster '18
-    - 345 hp 4.0L V8
+   - 345 hp 4.0L V8
    - 570 hp 4.5L V8
    - 503 hp 2.9L V6
    - 577 hp 4.0L V8
